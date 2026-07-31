@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Nuke user settings
+preferences*.nk
+recent_files
+ScriptEditorHistory.xml
+uistate.ini
+tab_stats.dat
+FileChooser_Favorites.pref
+Workspaces/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
